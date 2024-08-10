@@ -1,3 +1,4 @@
 ^utils\.pandoc\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
+^inst/dev/utils\.pandoc\.inst\.dev$

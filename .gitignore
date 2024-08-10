@@ -4,3 +4,4 @@
 .httr-oauth
 .DS_Store
 .quarto
+inst/dev/utils.pandoc.inst.dev
