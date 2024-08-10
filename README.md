@@ -2,7 +2,7 @@ This package forces the use of a specific version of pandoc when compiling PDFs 
 
 To use add the following to your YAML:
 
-      knit:utils.pandoc::knit_with_pandoc
+      knit: utils.pandoc::knit_with_pandoc
 
 
       
