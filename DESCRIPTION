@@ -1,10 +1,10 @@
 Package: utils.pandoc
-Title: What the Package Does (One Line, Title Case)
+Title: Compile PDF With Specific Version Of Pandoc
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+    person("Paul", "Palmer", , "p.j.palmer@lboro.ac.uk", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-1674-3728"))
+Description: This package is one way round a problem with many current templates depending upon an older version of Pandoc.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
